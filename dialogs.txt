@@ -1,0 +1,279 @@
+
+Coherent Worlds
+***************
+
+Voices
+======
+Game narrator = [GN]
+Mites Chorus = [MCH]
+Dark Jhon = [DJ]
+
+UI
+==
+Option = [OPT]
+Random Strings = -RS-
+Effects = :FX:
+Fight sequence = :FS:
+
+[GN] 
+You wake up in a small, clean room.
+There is a paper with something written on it.
+
+You read the paper...
+
+======= SUBJECT -RS- INFORMATION ==========
+
+Name: [INPUT] Input your name
+
+Patient number: -RS-
+
+Infection status: -RS- * 0.28
+
+Sex: [OPT] Male / Female / Both / None
+
+
+===========================================
+
+[GN]
+There are no visible exits
+
+You fall asleep ...
+
+[GN]
+You wake up in the same small, clean room.
+There is someone staring at you.
+He opens his mouth to talk.
+
+:FX:Crackling or distortion
+
+You fall asleep again ...
+
+[GN]
+
+You are in an open place now.
+You see some columns, the remains of an old building from a long forgotten civilization.
+You stare at the columns closely.
+
+:FX:Same crackling or distortion
+
+You can see the marble of the columns falling apart.
+A small, discrete noise invades you.
+
+:FX:Some melodic stuff progressively fades in
+
+There is a huge number 2 in front of you.
+The number 2 turns into a circle
+The circle starts to sing
+
+[MCH]
+HALLLOOO
+WE ARR SO SORrrWYYYY
+BUT WE cANtTt HELPP ITT
+OUR MENTAL FECES INVADE YOUR BODYYYY
+WE NEED TO MAKE YrUMM FOR OYR CHILDRENNN
+
+[GN]
+You can feel your own heartbeat.
+You now notice that you were sleeping.
+But you can't move yet.
+This is what they call the 
+-lucid sleep paralysis-,
+it'll pass don't be afraid.
+The person you saw before is still staring at you.
+He is talking now and you can understand something.
+
+[DJ]
+Something ... something ...
+
+[DJ]
+... four arms ... disease ... neural network ...
+armpits ... no turn back ... presocratic knowledge ... wake up
+
+[MCH]
+EX Q S  USS
+THEREIS SOMETHING
+PLEASE COLABORATTTTTE
+BODY REPRESENTATION
+
+[DJ]
+Stop!
+I said stop it!
+
+:FS:
+
+YOU v/s DARK JHON
+// this is a made up fight that we can use to show the game mechanics,
+// it can be totally scripted and is best that you always lose.
+
+[DJ]
+Now that i finally have your attention let me tell you this.
+We sing to everyone the same song.
+It is called: 
+
+The calypso ragtime infection.
+==============================
+:FX:The same melodic stuff that you barely heard before
+
+[GN]
+Dark Jhon starts singing...
+
+Will you die?
+Will you die? Will you die?
+Will you die? Will you die? Will you die? Will you die?
+
+You want to make the world coherent.
+But nothing makes sense in the beginning.
+
+Will you die?
+Will you die? Will you die?
+Will you die? Will you die? Will you die? Will you die?
+
+Are they really a dream?
+Are your choral voices a fantasy?
+
+Will you die?
+Will you die? Will you die?
+Will you die? Will you die? Will you die? Will you die?
+
+And this is the way your life started.
+I don't know if you had a previous story.
+But let me tell you that our world is collapsed.
+And everywhere you look an infection takes place.
+
+Mysterious computers appear out of nowhere.
+
+Will you die?
+Will you die? Will you die?
+Will you die? Will you die? Will you die? Will you die?
+
+
+:FX:
+TITLE SCREEN
+
+=Coherent Worlds=
+=Chapter 1: What the FUCK is happening here?=
+
+[GN]
+You are alone now.
+Your brain seems fully recovered.
+You can also move.
+And there's an open door in front of you!
+
+[OPT]
+Leave the room?
+
+[N]
+You are still alone.
+You feel ok.
+Maybe you should try to find some answers...
+
+[OPT]
+Leave the room now?
+
+[N]
+The door closes automatically...
+You can't leave now.
+You feel that you missed your chance to learn something.
+The door opens again!
+
+[OPT]
+Exit the room this time? (Hint: YES)
+
+[N]
+Someone kills you, you become crazy, you can't decide anything anymore.
+GAME OVER.
+
+NOTE: For gameovers, please respawn in the last option...
+
+[Y]
+After walking through a passage you arrive to a huge hall.
+There are at least 10 floors and 10 different platforms connected by escalators.
+Dark John is waiting for you in the center of the hall.
+
+*******************************************************************
+
+[OPTION]
+
+NOTE: We can put here the different places that you can go.
+It can be a fractal structure so you can go to 4 places from here
+and then 4 places more and so.
+
+We can limit the places and also figure out a map to show you where you are, 
+the idea is that you get an initial sense of freedom and variety triggered
+by some randomizations of the story unfolding.
+
+You can find one of three characters:
+
+The dog-head
+The dog-human-hands
+The she-squid
+
+Also, Dark Jhon is in the main hall and can answer your questions in a less cryptic way.
+He is also useful to check your stats.
+
+He has some questionnaires that change depending in what chapter or level of progress are you in.
+When you end the questionnaire, some texts appear to condense all the meaning.
+
+********************************************************************
+
+********
+The Dark Jhon Questionnaire (some questions trigger other questions)
+PART 1
+
+1. Who are you?
+2. Where am I?
+3. What is my condition? (INFECTION STATUS and backstory)
+4. What can I do?
+
+1. Who are you?
+[DJ]
+My name is Dark Jhon, I'm a -sensitive entity- in charge of the -new arrivals-.
+
+1a. Sensitive entity
+Don't worry about it
+
+1b. New arrivals
+New arrivals like you, they appear to be quite confused at the beggining...
+
+2. Where am I?
+[DJ]
+You are at the center of the Plethora. A entity-spaceship in a solipsistic journey.
+
+2a.Plethora
+Yup, that's the name of the spaceship.
+
+2b.Solipsistic journey
+A journey with no meaning and no end, we are just endless space wanderers.
+
+3. What is my condition?
+You are currently in a -Infection Status Number- percent.
+Everyone here has some degree of infection.
+
+It's not a big deal though.
+But you have - TIMED GAMEOVER - minutes left.
+
+4. What can I do?
+You can go to -your room- to make some research or look yourself in the mirror or
+you can explore some places of the Plethora, here is a map of the surrounding area.
+
+There is also the chance of some unwanted aggresion.
+
+4a. Unwanted aggression
+Some guys and gals are a little grumpy about having to deal with the mites everyday.
+
+The Dark Jhon Questionnaire 
+FACTS
+
+- You are in a spaceship
+- You have an unknown disease
+- You have - TIMED GAMEOVER - minutes of life.
+- You are in a solipsistic journey
+
+
+
+
+
+
+
+
+
